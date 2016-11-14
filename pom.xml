@@ -266,7 +266,7 @@
 	      <url>http://172.17.0.1:8081/nexus/content/repositories/snapshots/</url>
 	   </snapshotRepository>
 	    <repository>
-	        <id>deployment</id>
+	        <id>releases</id>
 	        <url>http://172.17.0.1:8081/nexus/content/repositories/releases/</url>
 	    </repository>
 	</distributionManagement>

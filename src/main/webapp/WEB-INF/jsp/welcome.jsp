@@ -10,7 +10,7 @@
             <spring:url value="/resources/images/pets.png" htmlEscape="true" var="petsImage"/>
             <img class="img-responsive" src="${petsImage}"/>
 			
-			<h3>Welcome !!</h3>
+			<h3>Welcome 1!!</h3>
         </div>
     </div>
 </petclinic:layout>
